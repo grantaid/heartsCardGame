@@ -1,4 +1,5 @@
-//this change was made from the lab and uploaded to github 
+//this change was made in the lab at the same time a change was made at home
+//this change was made from the lab and uploaded to github
 import java.util.Scanner;
 import java.io.File;
 //import java.io.FileReader;
